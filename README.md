@@ -33,6 +33,7 @@ using P2PNet;
 ```csharp
 P2PService p2pService = new P2PService();
 p2pService.HostServer("MyServer", 10);
+string inviteCode = p2pService.GetServerCode();
 ```
 
 #### Connecting to a Server
