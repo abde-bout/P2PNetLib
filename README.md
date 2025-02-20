@@ -19,7 +19,7 @@ P2PNet is a peer-to-peer networking library for establishing direct communicatio
 ### Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/P2PNet.git
+git clone https://github.com/abde-bout/P2PNet.git
 ```
 
 Include the `P2PNet` namespace in your project:
