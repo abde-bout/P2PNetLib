@@ -14,7 +14,6 @@ P2PNet is a peer-to-peer networking library for establishing direct communicatio
 
 ### Prerequisites
 - .NET Framework or .NET Core
-- Unity (Optional, if used in a game project)
 
 ### Installation
 Clone the repository:
